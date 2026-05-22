@@ -3,6 +3,7 @@ Hirst-Inspired Spot Painting Generator 🎨
 A beginner-friendly Python project that uses the turtle graphics library to automatically generate beautiful, randomized dot paintings inspired by the famous artist Damien Hirst.
 
 This project helps to understand how to use loops, coordinate positioning, and randomized RGB color palettes to create digital art. As a bonus, it automatically saves your generated masterpiece as an .eps file!
+
 ---------
 Features
 Automated Art Generation: Automatically draws a uniform grid of 405 colored dots (15 rows by 27 columns).
@@ -12,6 +13,7 @@ Randomized Palette: Uses the random module to pick from a list of 27 RGB colors.
 Auto-Save Functionality: Captures the final turtle screen and saves it to your computer as an .eps (Encapsulated PostScript) file, complete with a unique timestamp.
 
 Clean Exit: The program keeps the drawing window open until you click on it to close.
+
 ------------
 
 Prerequisites
